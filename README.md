@@ -1,7 +1,7 @@
 # activity15-github-practice
 Repo for Activity 15:
 
-This respitory is for Activity 14 and Activity 15. It shows that I can use GitHUb the right way, including making branches, issues, commits, pull requests, and organizing files. Everything  related to Activity 14 is stored here.
+This repository is for Activity 14 and Activity 15. It shows that I can use GitHub the right way, including making branches, issues, commits, pull requests, and organizing files. Everything  related to Activity 14 is stored here.
 
 What's in This Repo:
 
